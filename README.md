@@ -46,7 +46,7 @@ cd Mezcal
 2. Run the script:
 
 ```bash
-python mezcal.py
+python3 mezcal.py
 ```
 
 3. Choose an account from the table:
