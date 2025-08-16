@@ -1,0 +1,2 @@
+colorama==1.4.6
+tabulate==0.9.0
