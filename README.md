@@ -16,24 +16,6 @@ The script is written with a fun and whimsical style, but all execution and cons
 
 ---
 
-## Requirements
-Install the required Python packages listed in `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-````
-
-`requirements.txt` content:
-
-```
-colorama==1.4.6
-tabulate==0.9.0
-```
-
-> Note: Standard Python packages such as `smtplib`, `ssl`, `random`, `time`, and `email` are included in Python and do not need to be installed separately.
-
----
-
 ## Usage
 
 1. Clone the repository:
@@ -46,6 +28,7 @@ cd Mezcal
 2. Run the script:
 
 ```bash
+pip install -r requirements.txt
 python3 mezcal.py
 ```
 
